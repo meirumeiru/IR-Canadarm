@@ -1,0 +1,9 @@
+*.vspscc
+*.vssscc
+*.scc
+*.suo
+*.user
+
+/*.bat
+
+/_release/
