@@ -1,7 +1,7 @@
 {
   "NAME"     : "IRCanadarm",
   "DOWNLOAD" : "https://github.com/meirumeiru/IR-Canadarm/releases",
-  "URL"      : "https://github.com/meirumeiru/IR-Canadarm/raw/develop/Resources/GameData/IRCanadarm/IRCanadarm.version",
+  "URL"      : "https://github.com/meirumeiru/IR-Canadarm/raw/main/Resources/GameData/IRCanadarm/IRCanadarm.version",
   "GITHUB" : {
       "USERNAME"   : "meirumeiru",
       "REPOSITORY" : "IR-Canadarm"
